@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chandra Rajesh</h1>
 <h3 align="center">An Enthusiastic Student Engineer from India</h3>
 
-- 🔭 I’m currently working on **A calculator for my class**
+- 🔭 I’m currently working on **Web dev**
 
-- 🌱 I’m currently learning **Figma, Blender, C, React, Python**
+- 🌱 I’m currently learning **Figma, Blender, C, Fusion, Python**
 
-- 💬 Ask me about **Figma**
+- 💬 Ask me about **Designing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
