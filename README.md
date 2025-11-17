@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chandra Rajesh</h1>
+<h1 align="center">Hi, I'm Chandra Rajesh</h1>
 <h3 align="center">Robotics Student Engineer from India</h3>
 
 - 🔭 I’m currently working on greyskale
